@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/ea36beb9-1d39-4e68-8734-50cf2680dc39
 <h3>3. SPEG :-----</h3>
 <h5>SPEG (Secure Password Enforceable Generator) is a robust password generation tool designed to create strong, enforceable passwords with customizable security parameters. This project focuses on enhancing password security by incorporating advanced encryption techniques and compliance with password policies.</h5>
 
-<h3>Shopping-List</h3>
+<h3>4. Shopping-List :-----</h3>
 <h5>A simple and interactive shopping list app built with React. This project helps users efficiently manage their shopping items by adding, editing, and deleting items in a user-friendly interface.</h5>
 DEMONSTRATION:---
 
