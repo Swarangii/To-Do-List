@@ -1,4 +1,4 @@
-<h3>4. Shopping-List :-----</h3>
+<h3>Shopping-List :-----</h3>
 <h5>A simple and interactive shopping list app built with React. This project helps users efficiently manage their shopping items by adding, editing, and deleting items in a user-friendly interface.</h5>
 DEMONSTRATION:---
 
